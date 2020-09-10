@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "507942899299",
+    "firebase_url": "https://super-telyu.firebaseio.com",
+    "project_id": "super-telyu",
+    "storage_bucket": "super-telyu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507942899299:android:86821fac0d289c4803f256",
+        "android_client_info": {
+          "package_name": "com.example.super_telyu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507942899299-l9ts8rg5b6mqd9m0saro4gitfi2450js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOm8_gzDqNAKdUq4C-MVrbBx90VPFEEbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507942899299-l9ts8rg5b6mqd9m0saro4gitfi2450js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
